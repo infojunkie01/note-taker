@@ -10,7 +10,9 @@ router.get('/notes', (req, res) => {
 
 // add and save note
 router.post('/notes', (req, res) => {
+    id = notes.length;
     notes.push({
+        id: id,
         title: req.body.title,
         text: req.body.text,
     });
@@ -26,5 +28,6 @@ router.post('/notes', (req, res) => {
         }
     )
 });
+
 
 module.exports = router;

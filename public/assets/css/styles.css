@@ -60,6 +60,11 @@ body {
   border-top-left-radius: 0;
 }
 
+.list-group-item:hover{
+  cursor: pointer;
+  background: rgb(237, 237, 237);
+}
+
 .list-item-title {
   display: inline-block;
   width: 75%;
