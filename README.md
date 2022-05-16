@@ -9,7 +9,7 @@ Web app to take notes
 * Express.js
 
 ## Preview
-https://note-taker-infojunkie01.herokuapp.com/notes
+https://note-taker-infojunkie01.herokuapp.com/
 
 Landing page:
 ![Screen Shot 2022-05-16 at 4 35 59 PM](https://user-images.githubusercontent.com/70418455/168679670-62007b20-d9e7-4ef1-b992-fcafd1c7b56e.png)
